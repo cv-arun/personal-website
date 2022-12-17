@@ -102,7 +102,7 @@ const Work = () => {
                                 Incubation Management
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='/'>
+                                <a href='https://zippy-sunburst-3c5394.netlify.app/admin'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
