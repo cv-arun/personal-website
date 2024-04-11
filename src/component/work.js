@@ -125,11 +125,11 @@ const Work = () => {
                                 Chat application
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='#'>
+                                <p>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
-                                </a>
+                                </p>
                                 <a href='https://github.com/cv-arun/Lets-Chat' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
@@ -149,11 +149,11 @@ const Work = () => {
                                 OLX-clone-react
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='#'>
+                                <p>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
-                                </a>
+                                </p>
                                 <a href='https://github.com/cv-arun/olx-clone' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
