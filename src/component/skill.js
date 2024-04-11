@@ -21,7 +21,7 @@ import Redux from '../assets/redux.png'
 
 const Skills = () => {
     return (
-        <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300 md:mt-0 mt-96'>
+        <div name='skills' className='w-full min-h-screen bg-[#0a192f] text-gray-300 '>
             {/* Container */}
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div>

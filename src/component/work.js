@@ -9,8 +9,8 @@ import Incubation from '../assets/incubation.png'
 
 const Work = () => {
     return (
-        <div name='work' className='w-full pt-60 sm:pt-0 md:h-[150vh]  text-gray-300 bg-[#0a192f] md:mt-0 mt-44'>
-            <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div name='work' className='w-full  sm:pt-0 min-md:h-[150vh]  text-gray-300 bg-[#0a192f] '>
+            <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full '>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
                         Work
@@ -19,7 +19,7 @@ const Work = () => {
                 </div>
 
                 {/* Container */}
-                <div className='grid sm:grid-cols-2 md:grid-cols-2 md:grid-rows-3 gap-5 h-[700px] '>
+                <div className='grid sm:grid-cols-2 md:grid-cols-2 md:grid-rows-3 gap-5 '>
 
                     {/* Grid Item */}
                     <div
